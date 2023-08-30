@@ -1,0 +1,14 @@
+title = "Bible To World"
+theme = "contrast-hugo"
+
+[params]
+  minimal = false
+  excerpts = false
+  description = "bible-to-world"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
