@@ -1,5 +1,6 @@
-title = "Bible To World"
+title = "JESUS IS THE LIFE"
 theme = "contrast-hugo"
+baseurl= "https://gm-mzv.github.io/bible-to-wolrd-hildegard/"
 
 [params]
   minimal = false

@@ -2,8 +2,7 @@ Sorry, for beeing so intrusive.
 
 But I really need to say everybody I meet in the world the most important thing I found:
 
-![Scenario 1: Across columns](/jesus.jpg)
-
+{{< figure src="./jesus.jpg" width="400" alt="Gravel Calls" class="left" >}}
 
 Want to have life? Here is the answer of Jesus Christ: 
 
